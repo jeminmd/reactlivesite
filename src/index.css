@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
+  color: burlywood !important;
+}
+.nav-link{
+  font-weight: 700;
+  color: #ffffff !important;
+}
+.navbar-toggler {
+  color: rgb(255 255 255) !important;
+  background-color: white !important;  
+}
